@@ -6,12 +6,12 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 //광고 ID
 //배너 아이디
-String adUnitIdBanner = 'ca-app-pub-7290364920511331/5559853443';
+String adUnitIdBanner = 'ca-app-pub-3940256099942544/6300978111';
 // ca-app-pub-7290364920511331/5559853443
 //'ca-app-pub-3940256099942544/6300978111'; // 테스트용
 
 //전면 아이디
-String adUnitIdInterstitial = 'ca-app-pub-7290364920511331/7886919299';
+String adUnitIdInterstitial = 'ca-app-pub-3940256099942544/1033173712';
 // ca-app-pub-7290364920511331/7886919299
 //'ca-app-pub-3940256099942544/1033173712'; // 테스트용
 //'ca-app-pub-3940256099942544/8691691433'; // 테스트용 동영상

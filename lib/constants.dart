@@ -39,8 +39,7 @@ ButtonStyle calculationButtonStyle = ButtonStyle(
 );
 
 //텍스트필드 textstyle
-TextStyle kTextFieldTextStyle =
-    const TextStyle(color: Colors.white, fontSize: 20.0);
+TextStyle kTextFieldTextStyle = const TextStyle(fontSize: 20.0);
 
 const kTextFieldDecoration = InputDecoration(
   hintText: 'Enter your email',
